@@ -1,7 +1,11 @@
 # GCPHONE-FIX-NEW-ES_EXTENDED
 
 1º Se ja tiverem algum gcphone instalado no vosso server, devem dropar as tables na base de dados (SQL) e inserir estas novas tables.
+
+
 2º Substituir o vosso gcphone e o es_addons_gcphone por estes novos.
+
+
 3º Como dar start as resources de forma correcta: 
    
 Exemplo:
