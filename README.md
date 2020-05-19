@@ -9,8 +9,11 @@
 3º Como dar start as resources de forma correcta: 
    
 Exemplo:
+
 ensure es_addons_gcphone
+
 ensure gcphone
+
 " Sempre antes das start das jobs, SEMPRE "
 
 Os créditos vão para os originais criadores do conteúdo, simplesmente só traduzi. Mas muita gente estava a ter este problema devido ao novo es_extended. Então porque não ajudar..
